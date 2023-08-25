@@ -1,0 +1,19 @@
+body{
+    background-color:antiquewhite;   
+}
+.rosa{
+    color: pink;
+    font-weight: bold;
+}
+.ciano{
+    color: rgb(35, 141, 155);
+    font-weight: bold;
+}
+.amarelo{
+    color: rgb(255, 69, 69);
+    font-weight: bold;
+}
+#imagem{
+    width: 600px;
+    height: 900px;
+}
